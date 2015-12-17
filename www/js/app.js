@@ -120,15 +120,6 @@ angular.module('finali0S', ['ionic', 'satellizer', 'ngStorage'])
                 }
             }
         })
-        //    .state('tab.chat-detail', {
-        //      url: '/chats/:chatId',
-        //      views: {
-        //        'tab-chats': {
-        //          templateUrl: 'templates/chat-detail.html',
-        //          controller: 'ChatDetailCtrl'
-        //        }
-        //      }
-        //    })
 
     .state('tab.logs', {
         url: '/logs',
